@@ -1,2 +1,1 @@
-/public
-  └── lagu.mp3
+JEMBOT LU PADA LIAT LIAT
